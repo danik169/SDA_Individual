@@ -1,0 +1,10 @@
+1 Document1 20
+2 Document2 15
+3 Document3 30
+4 Document4 25
+5 Document5 18
+6 Document6 22
+7 Document7 27
+8 Document8 19
+9 Document9 35
+10 Document10 28
